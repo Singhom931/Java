@@ -15,3 +15,8 @@ public class fact
         System.out.println(factorial);
 	}
 }
+
+/*
+Input: 5
+Output:15
+*/
