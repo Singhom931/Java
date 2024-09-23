@@ -3,6 +3,7 @@ class perfectnumber
 {
 public static void main(String args[]) 
 {
+
     int z=0;
     Scanner sc=new Scanner(System.in);         
     System.out.print("Enter first number: ");  
